@@ -1,0 +1,14 @@
+{
+  "author": {
+    "name": "Igor Korshunov"
+  },
+  "name": "mongotron",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "mongodb": "~2.0.20"
+  },
+  "scripts": {
+    "start": "node bin/index.js"
+  }
+}
